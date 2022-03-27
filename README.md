@@ -11,8 +11,6 @@ I have hosted this website live on github pages: [https://tarunsahnan.github.io/
 
 # Resources
 Images that i have used belong to this website: 
-
-    1. [https://unsplash.com/s/photos/url](https://unsplash.com/s/photos/url)
-    
-    2. [https://www.pexels.com/](https://www.pexels.com/)
+1. [https://unsplash.com/s/photos/url](https://unsplash.com/s/photos/url)
+2. [https://www.pexels.com/](https://www.pexels.com/)
 
